@@ -1,0 +1,10 @@
+Package: com.rain.repairsettingslayout
+Name: Repair Settings Layout
+Depends: mobilesubstrate, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Description: Fixed an layout issue in "Settings" app for iOS 9.
+Maintainer: Rain. <1105100295@qq.com>
+Author: Rain. <1105100295@qq.com>
+Section: Tweaks
+Version: 1.0-2
+Installed-Size: 80
